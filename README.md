@@ -18,7 +18,7 @@ I build data systems that help LLMs and healthcare teams understand what humans 
 
 ## 📦 My public frameworks
 
-### 🔹 [AI-ready Annotation Framework]((https://github.com/Tarasova-AI/AI-annotation-framework))  
+### 🔹 [AI-ready Annotation Framework](https://github.com/Tarasova-AI/AI-annotation-framework)  
 A modular system for designing, scaling, and reviewing annotation pipelines — built for LLMs, multilingual teams, and prompt integration.
 
 > 8 interconnected modules | UX-first | QA-ready | Model-aligned

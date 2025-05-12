@@ -18,14 +18,14 @@ I build data systems that help LLMs and healthcare teams understand what humans 
 
 ## 📦 My public frameworks
 
-### 🔹 [AI-ready Annotation Framework](https://github.com/elenatarasova/ai-annotation-framework)  
+### 🔹 [AI-ready Annotation Framework]((https://github.com/Tarasova-AI/AI-annotation-framework))  
 A modular system for designing, scaling, and reviewing annotation pipelines — built for LLMs, multilingual teams, and prompt integration.
 
 > 8 interconnected modules | UX-first | QA-ready | Model-aligned
 
 ---
 
-### 🔹 [Assistant Doux – UX Prototype for Pediatric ER](https://github.com/elenatarasova/assistant-doux-ux)  
+### 🔹 [Assistant Doux – UX Prototype for Pediatric ER](https://github.com/Tarasova-AI/Assistant-Doux-UX)  
 A no-code, multilingual interface to reduce ER overload by helping parents self-assess symptoms — designed for real-time stress, triage, and inclusion.
 
 > Mobile-first | NLP-augmentable | FR/EN/RU | Tested logic
